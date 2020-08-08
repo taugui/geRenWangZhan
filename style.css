@@ -1,0 +1,46 @@
+
+/*背景颜色*/
+.row{
+    background-color:#DCDCDC;
+    color:white;
+    font-size:20px;
+}
+
+/*图片*/
+.headshot{
+    width:20%;
+
+}
+
+/*名字和图片2上面的字段*/
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+/*边框*/
+.wd{
+    width:700px;
+    height:540px;
+}
+
+/*.row footer {
+    float: none;
+    text-align:center;
+    font-size:1px;
+}*/
+.tupian{
+    width:400px;
+    height: 35opx;
+}
+.tu-DX{
+    width:1200px;
+    height:550px;
+}
+.L-X a{
+    color:#F4A460;
+}
